@@ -1,5 +1,13 @@
 # astro
 
+## 2.9.2
+
+### Patch Changes
+
+- [#7759](https://github.com/withastro/astro/pull/7759) [`1792737da`](https://github.com/withastro/astro/commit/1792737dae1b24e3d678f8c4780f3cd17710944f) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Fix SharedImageService's types not properly reflecting that image services hooks can be async
+
+- [#7766](https://github.com/withastro/astro/pull/7766) [`da7f1128b`](https://github.com/withastro/astro/commit/da7f1128bf749dab1d9bd43e50c29a67e8271746) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Fix missing `referrerpolicy` on ScriptHTMLAttributes
+
 ## 2.9.1
 
 ### Patch Changes
